@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm currently third-year Computer Science student at Cairo University, specializing in Operations Research & Decision Support.<br>Passionate about problem-solving, front-end development, and data-driven decision-making, <br>I’m eager to apply my skills and grow in the software and OR fields.
+ I'm currently Computer Science student at Cairo University, specializing in Operations Research & Decision Support.<br>Passionate about problem-solving, front-end development, and data-driven decision-making, <br>I’m eager to apply my skills and grow in the software and OR fields.
 
 
 ## 🌐 Socials:
